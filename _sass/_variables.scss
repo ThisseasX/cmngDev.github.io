@@ -1,0 +1,9 @@
+//To be able to define new variables and reuse the ones defined in Bootstrap, we create a new partial Sass file
+
+//    We define our variables
+//    “Overwrite” the ones we want from Bootstrap node_modules/bootstrap/scss/_variables.scss before loading them and then
+//    we import the Bootstrap variables.
+
+$custom-font-size: 20px;
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
