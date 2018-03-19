@@ -3,3 +3,11 @@
 
 @import "{{ site.theme }}";
 //Add any custom CSS (or Sass, including imports) you'd like immediately after the @import line
+
+
+@import "variables";
+@import "bootstrap/scss/bootstrap";
+
+.content {
+  font-size: $custom-font-size;
+}
