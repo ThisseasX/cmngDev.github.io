@@ -1,0 +1,99 @@
+---
+layout: cv
+title: Konstantinos Kasidiaris's CV
+---
+# Konstantinos D. Kasidiaris
+Chemical Engineer | Web Developer
+
+<div id="webaddress">
+<a href="mailto:kkasidiaris@gmail.com">email</a>
+|
+<i class="fa fa-github"></i> <a href="https://github.com/cmngDev">cmngDev</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/konstantinos-kasidiaris/">konstantinos-kasidiaris</a>
+</div>
+
+
+## Currently
+
+I am a Chemical Engineer student, finnishing my diploma thesis at [LSTM](http://lstm.chemeng.upatras.gr/), based in the University of Patras, Greece. My thesis is about Molecular Dynamics simulations over Polythiophenes to predict their structural, mechanical and thermodynamic properties.
+
+## Employment
+
+`Jan 2018 - Now`
+__SourceLair ltd__ Trainee Developer, Athens, GREECE
+training in technologies of:
+* SourceLair online IDE
+* Git
+* GitHub
+* Jekyll
+* JavaScript
+* HTML5
+* CSS3
+* Python 3
+
+`Nov 2017-` 
+__Afdemp.__ Full Stack Web Developer, Athens, GREECE
+* Front End: HTML5/CSS3, JavaScript, jQuery, Bootstrap
+* Back End: J2EE, Spring MVC, JSF 
+* Database: MySQL, servers: Tomcat, WildFly
+
+`Dec 2016 - Dec 2017`
+__C&A Stavros Kassidiaris S.A.__ Environmental Engineer, Piareus, GREECE
+• Environmental Issues handling (i.e. compliance with ISO 14001, waste handling, law compliance)
+• Process Control (transaction of ISO 9001:2008 to 9001:2015)
+• Pre sales (Designing documents, presentations & videos)
+• Marketing (i.e. Design of Business Cards, email signatures)
+• Construction and maintenance of eShop database
+• Testing possible pivoting scenarios (ISO 17025 calibration lab, Ballast water treatment system, explosiveproof certification -ATEX/IECEx- of corporate products, design of production line for Magnetostrictive Level Sensors)
+
+`Jun 2011 - Aug 2011`
+__Technical Office Gaia__ Internship, Tripolis, GREECE
+Study of Wastewater Treatment Plants of Tripolis, Vytina, Astros
+
+## Education
+
+`Sep 2008 - Now`
+__University of Patras__ Diploma in Chemical Engineering (300ECTS) (supervisors: Prof. Vlasis G. Mavrantzas). My thesis was titled _All-atom molecular dynamics simulation of the structural and thermodynamic properties of pure crystalline PQT_ . Unfortunately, I had to pause my studies for a long period so now I am remaking the same thesis under new scientific data, in Crystalline and Amorphous phase, in comparison to P3HT too.
+
+### Posters
+
+`March 2015`
+_4th International Conference on Multifunctional, Hybrid and Nanomaterials_ (Sitges Barcelona, SPAIN)
+
+## Technical skills
+
+* Java
+* MySQL
+* Fortran 90/95
+* C++
+* Python
+* Javascript 
+* HTML and CSS
+* Git
+* UNIX
+
+## Projects
+
+### github
+
+My [personal github account](https://github.com/cmngDev) hosts my hobby development projects as well as listing contributions to open source tools
+
+### blog
+
+I write a personal blog at [cmngdev.github.io](http://cmngdev.github.io) where I share my experiences in programming.
+
+## Links
+
+<!-- fa are fontawesome, ai are academicons -->
+* <i class="fa fa-envelope"></i> <a href="mailto:kkasidiaris@gmail.com">email</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/cmngDev">cmngDev</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/konstantinos-kasidiaris">LinkedIn</a>
+
+## References
+
+Available on request.
+
+### Footer
+
+Last updated: March 2018
