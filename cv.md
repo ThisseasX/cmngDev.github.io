@@ -42,6 +42,7 @@ __AFDEmp.__ Full Stack Web Developer, Athens, GREECE
 __C&A Stavros Kassidiaris S.A.__ Environmental Engineer, Piraeus, GREECE
 Environmental Issues handling (i.e. compliance with ISO 14001, waste handling, law compliance), Process Control (transaction of ISO 9001:2008 to 9001:2015), Pre-sales (Designing documents, presentations & videos), Marketing (i.e. Design of Business Cards, email signatures), Construction and maintenance of eShop database, Testing possible pivoting scenarios (ISO 17025 calibration lab, Ballast water treatment system, explosiveproof certification -ATEX/IECEx- of corporate products, design of production line for Magnetostrictive Level Sensors)
 
+
 `Jun 2011 - Aug 2011`
 __Technical Office Gaia__ Internship, Tripolis, GREECE
 Study of Wastewater Treatment Plants of Tripolis, Vytina, Astros
