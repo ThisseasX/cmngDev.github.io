@@ -13,9 +13,7 @@ Through my studies of Chemical Engineering, I discovered my passion for programm
 I am able to quickly learn or freshen up any programming language or technology needed. My always expanding skillset includes principal programming languages such as `C++` & `Java`, as well as currently trending languages such as `Python`, `JavaScript` etc.
 
 ## Curriculum Vitae
-{% for post in CV %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+{{ "/_site/2018/03/21/cv.html" | absolute_url }}
 
 ## Blog Posts
 
