@@ -87,7 +87,7 @@ _E.N. Skountzos_, O. Alexiadis, __K. Kasidiaris__, V.G. Mavrantzas, _“Atomisti
 
 My [personal GitHub account](https://github.com/cmngDev) hosts my hobby development projects as well as listing contributions to open source tools
 
-#### eShop
+### eShop
 
 My very first enterprise size project, an e-commerce platform available at [personal GitHub account](https://github.com/cmngDev/eMusicStore)
 
